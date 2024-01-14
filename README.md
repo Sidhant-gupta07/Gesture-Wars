@@ -23,6 +23,6 @@
    </ul>
  </div>
  
- <h6><About:/h6>
+ <h6>About:</h6>
  <p>It is built using normal html tags and attributees, in the part of css the flexbox is used the font styling is took from the google-fonts  and the three images downloaded
  from the local browser and at the last for every command I made functions because we can use in the future also and the eventListner's and also the loop in the javaScript.</p>
