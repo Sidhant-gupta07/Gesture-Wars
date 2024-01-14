@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors
 
-![website screenshot ]![Screenshot 2024-01-14 152905](https://github.com/Sidhant-gupta07/Rock-Paper-Scissors/assets/133968577/524e2cf1-a3ce-4d8c-afa6-f4310543ee1f)
+![game screenshot ]![Screenshot 2024-01-14 152905](https://github.com/Sidhant-gupta07/Rock-Paper-Scissors/assets/133968577/524e2cf1-a3ce-4d8c-afa6-f4310543ee1f)
 
  <div>
    <h6> How to use:</h6>
@@ -23,5 +23,6 @@
    </ul>
  </div>
  
- 
- <p> This is a very popular game, Everybody played since in their childhood</p>
+ <h6><About:/h6>
+ <p>It is built using normal html tags and attributees, in the part of css the flexbox is used the font styling is took from the google-fonts  and the three images downloaded
+ from the local browser and at the last for every command I made functions because we can use in the future also and the eventListner's and also the loop in the javaScript.</p>
