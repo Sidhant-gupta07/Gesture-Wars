@@ -5,7 +5,7 @@
  <div>
    <h6> How to use:</h6>
    <ul>
-     <li>Clone thwe repository to your desktop
+     <li>Clone the repository to your desktop
      git clone (https://github.com/Sidhant-gupta07/Rock-Paper-Scissors.git)
      </li>
      <li>Open the project directory</li>
