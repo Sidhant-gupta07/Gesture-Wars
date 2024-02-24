@@ -1,4 +1,4 @@
-<h2>Rock-Paper-Scissors</h2>
+<h2Gesture Wars</h2>
 
 ![game screenshot ]![Screenshot 2024-01-14 152905](https://github.com/Sidhant-gupta07/Rock-Paper-Scissors/assets/133968577/524e2cf1-a3ce-4d8c-afa6-f4310543ee1f)
 
@@ -21,6 +21,17 @@
      <li>then, the result will apppear in the message box </li>
      <li>and at last you can see your score </li>
    </ul>
+ </div>
+
+ <div>
+  <h6> Key Skills Utilized:</h6>
+  <ul>
+   <li>Proficiency in HTML5 for structuring the web page elements.</li>
+   <li>Expertise in CSS3 for styling and enhancing the visual presentation of the game interface.</li>
+   <li>Advanced knowledge of JavaScript for implementing the game logic, including user input handling, computer choice generation, and result determination.</li>
+   <li>Problem-solving abilities to ensure smooth gameplay functionality and user experience.</li>
+   <li>Attention to detail to create an aesthetically pleasing and responsive design.</li>
+  </ul>
  </div>
  
  <h6>About:</h6>
