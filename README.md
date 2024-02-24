@@ -1,4 +1,4 @@
-<h2Gesture Wars</h2>
+<h2>Gesture Wars</h2>
 
 ![game screenshot ]![Screenshot 2024-01-14 152905](https://github.com/Sidhant-gupta07/Rock-Paper-Scissors/assets/133968577/524e2cf1-a3ce-4d8c-afa6-f4310543ee1f)
 
